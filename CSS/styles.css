@@ -101,7 +101,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url('/imagenes/comida1.png') no-repeat center center/cover;
+  background: url('../imagenes/comida1.png') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -228,7 +228,7 @@ overflow: hidden;
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url('/comida4.jpg') no-repeat center center/cover;
+  background: url('../comida4.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
@@ -258,7 +258,7 @@ overflow: hidden;
 
 #testimonials1 {
   height: 600px;
-  background: url('/imagenes/fondo2.jpg') no-repeat center center/cover;
+  background: url('../imagenes/fondo2.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
